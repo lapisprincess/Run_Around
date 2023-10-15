@@ -1,0 +1,7 @@
+Entities documentation!
+
+Anything capable of navigating or interacting with the world is considered an entity.
+
+All entities have the following attributes:
+    - (name, descr): (String, String) ( a tuple containing the entity's name and description)
+    - (health, stamina, magic): (i16, i16, i16) ( a thruple containing basic entity stats )
